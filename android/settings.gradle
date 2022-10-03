@@ -1,0 +1,26 @@
+rootProject.name = 'app4rge'
+apply from: file('../node_modules/@react-native-community/cli-platform-android/native_modules.gradle'); applyNativeModulesSettingsGradle(settings)
+
+include ':@react-native-firebase_app'
+project(':@react-native-firebase_app').projectDir = new File(rootProject.projectDir, './../node_modules/@react-native-firebase/app/android')
+
+include ':@react-native-firebase_messaging'
+project(':@react-native-firebase_messaging').projectDir = new File(rootProject.projectDir, './../node_modules/@react-native-firebase/messaging/android')
+
+include ':app'
+includeBuild('../node_modules/react-native-gradle-plugin')
+
+include ':react-native-lottie-splash-screen'
+project(':react-native-lottie-splash-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-lottie-splash-screen/android')
+
+ /* enable for razorpay 
+include ':react-native-razorpay'
+project(':react-native-razorpay').projectDir = new File(rootProject.projectDir,   '../node_modules/react-native-razorpay/android')
+*/
+
+if (settings.hasProperty('newArchEnabled') && settings.newArchEnabled == 'true') {
+    include(':ReactAndroid')
+    project(':ReactAndroid').projectDir = file('../node_modules/react-native/ReactAndroid')
+    include(':ReactAndroid:hermes-engine')
+    project(':ReactAndroid:hermes-engine').projectDir = file('../node_modules/react-native/ReactAndroid/hermes-engine')
+}

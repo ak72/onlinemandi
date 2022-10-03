@@ -1,0 +1,133 @@
+{
+  "inventory": {
+    "city": {
+      "bhopal": {
+        "products": [
+          {
+            "category": "fruit",
+            "desc": "An orange is a round juicy fruit with a thick orange coloured skin.An orange a day will give you all the vitamin C you need. ",
+            "id": "72",
+            "image_url": "http://etcetera.ai/assets/native/images/fruits/orange/index.jpg",
+            "images_url": [
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb01.jpg",
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb02.jpg",
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb03.jpg"
+            ],
+            "inOffer": false,
+            "inStock": true,
+            "name": "orange",
+            "rating": "4",
+            "type": "juice",
+            "units": [
+              {
+                "price": "750",
+                "weight": "500gm"
+              },
+              {
+                "price": "150",
+                "weight": "1kg"
+              }
+            ]
+          }
+        ]
+      },
+      "indore": {
+        "products": [
+          {
+            "category": "vegitable",
+            "desc": "Cauliflower is a large round vegetable that has a hard white centre surrounded by green leaves. The head of this plant is eaten as a vegetable ",
+            "id": "7201",
+            "image_url": "http://etcetera.ai/assets/native/images/vegetables/cauliflower/index.jpg",
+            "images_url": [
+              "http://etcetera.ai/assets/native/images/vegetables/cauliflower/thumb01.jpg",
+              "http://etcetera.ai/assets/native/images/vegetables/cauliflower/thumb02.jpg",
+              "http://etcetera.ai/assets/native/images/vegetables/cauliflower/thumb03.jpg"
+            ],
+            "inOffer": true,
+            "inStock": true,
+            "name": "cauliflower",
+            "rating": "3",
+            "type": "green",
+            "units": [
+              {
+                "price": "50",
+                "weight": "500gm"
+              },
+              {
+                "price": "50",
+                "weight": "1kg"
+              }
+            ]
+          },
+          {
+            "category": "fruit",
+            "desc": "An orange is a round juicy fruit with a thick orange coloured skin.An orange a day will give you all the vitamin C you need. ",
+            "id": "72",
+            "image_url": "http://etcetera.ai/assets/native/images/fruits/orange/index.jpg",
+            "images_url": [
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb01.jpg",
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb02.jpg",
+              "http://etcetera.ai/assets/native/images/fruits/orange/thumb03.jpg"
+            ],
+            "inOffer": false,
+            "inStock": true,
+            "name": "orange",
+            "rating": "4",
+            "type": "juice",
+            "units": [
+              {
+                "price": "750",
+                "weight": "500gm"
+              },
+              {
+                "price": "150",
+                "weight": "1kg"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "users": {
+    "GY4qFFzOWkfivVGzhmhYjU1Aoze2": {
+      "address": [
+        {
+          "address1": "A31, Sakshi Bungalow",
+          "address2": "Near Aura Mall",
+          "city": "Bhopal",
+          "coordinates": {
+            "latitude": "986545654",
+            "longitude": "654242"
+          },
+          "mobile": "9926597273",
+          "state": "Madhya Pradesh",
+          "zip_code": "462029"
+        },
+        {
+          "address1": "174, Goyal Vihar",
+          "address2": "Near Khazaran Ganesh Mandir",
+          "city": "Indore",
+          "coordinates": {
+            "latitude": "554545654",
+            "longitude": "2323242"
+          },
+          "mobile": "797455413",
+          "state": "Madhya Pradesh",
+          "zip_code": "452016"
+        }
+      ],
+      "current_order_id": "452225",
+      "image_url": "http://etcetera.ai/assets/native/images/vegetables/cauliflower/index.jpg",
+      "mobile": "9907410015",
+      "past_order_ids": ["452225", "452225"],
+      "payment_type": ["cash"],
+      "user_cart": [
+        {
+          "product_id": "ak7201",
+          "quantity": "500gms"
+        }
+      ]
+    }
+  }
+}

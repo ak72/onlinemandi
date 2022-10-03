@@ -1,0 +1,64 @@
+{
+  
+      "image_url": "",
+      "mobile": 9926597274,
+       "address": [
+        {
+          "city": "Indore",
+          "address1": "",
+          "address2": "",
+          "state": "Madhya Pradesh",
+          "zip_code": 452016,
+          "coordinates": {
+            "latitude": 22.7196,
+            "longitude": 75.8577
+          },
+          "mobile": 9926597274
+        },
+        {
+          "city": "Bhopal",
+          "address1": "",
+          "address2": "",
+          "state": "Madhya Pradesh",
+          "zip_code": 462001,
+          "coordinates": {
+            "latitude": 23.2599,
+            "longitude": 77.4126
+          },
+          "mobile": 9926597274
+        }
+      ],
+     "current_order_id": "",
+    "payment_type": ["cash", "online"],
+    "past_order_ids": [2323232, 2343434, 886786876, 1896868],
+     "user_cart": {"product_id":"72", "quantity": "1kg"}
+  }
+
+{
+  "products": [
+    {
+      "id": "ak72",
+      "name": "",
+      "image_url": "",
+      "inStock": true,
+      "price": 100,
+      "rating": 3,
+      "category": "vegitable",
+      "type": "green",
+      "inOffer": true,
+      "images_url": ["", "", ""]
+    },
+    {
+      "id": "ak7201",
+      "name": "",
+      "image_url": "",
+      "inStock": true,
+      "price": 150,
+      "rating": 4,
+      "category": "fruit",
+      "type": "juice",
+      "inOffer": false,
+      "images_url": ["", "", ""]
+    }
+  ]
+}

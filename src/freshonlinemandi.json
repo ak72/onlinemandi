@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "freshonlinemandi",
+  "private_key_id": "24ab66d44daab2a58b59d04c40fc229f697af1db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK0W5f+xs+9mOf\nFii8hZGHjzROspbkl8K2r9AueL6vBzok6SawVIeaHKZ+nO8DqrHF3DtQpXSfgaxd\nSpO5oxeubCC5e9ggQZ2UosMYy2M/eG/uNVrx2TWhlpiKxi99fprS/MTlcPpOPSUu\nuB/tp/fhMWx216tXQ3xV07hHKrrGY+YAceHLMMd8WJAyDg5wX2CQPkDR0gFxzhWm\nN/P3HxY3+KDBilX27K84x3VdH8RH0V/bipuqGOpZ0+4INKOj6ugZbqqwIdkPbEYL\ntSEC2EviSMPEWnIV1lBKiJQ7yyvUuK25UpPY32Xfn7cgL/27xNR15zqybmDc74Ys\n7GGdYYcBAgMBAAECggEAAQgbVifBI5Gx4mMKGrH5HQacV05uW6ABH5rVsbqnnBJA\nJFm8YpfA+3PsAG4P3g8K+xmJ1+kEtqv0fd0I0vrXLmyr0VFjETsFNuE/BzSvuuYD\n533CwlL9ZEwE109Jv2h5XROH+hOYMzApiinJtYoR7fBeyRIDdn4uxdIzNFyNf/ql\n+PNoBP4IFOks6oBetIu+iZ53+eIj/b42gttkvzeo5RZDyND7PZkkcvlwNnoPStRK\n1vplOYvj/erpFriQvZwVbe5hfYxvOwoIVwNjgm4UM9kR6WJ5zsoS0VPeQak17v1e\nPci9Rq5yGuyc2+RYSYqVye9Za95nUUU3cqWJznCb4QKBgQD0+KKNoPM30nMT6GEZ\nwi3UxC4CYoRpEEwZKSENWAC29fgox8axJej+IMJ3w0Vbgi55YV1rJSGwW2cZe3l4\n8gD2nAJ0hECflaW1R8PQAu3ao0uAMyVVmlNqhVL+qmTla5jQJdcVacE/k00t0Vnp\n4H4UDFZspWBlHaHj78QMUSiOYQKBgQDT8vgLM6HjD2Cfd/i97ymF0pogOzPOVlP6\nuRvol5dMbA8sjWsQezE8Mvm0NYRrLVJUfcFthLFxk3ApO5q2F2g+1Mzc3bJf3ki5\n5PS7CnylmfCDhiivQ9sQJXUhNFhvjINyXX6JC7+soiWiku/0F0XTfbzY28cWRnLM\ndcFAPIl8oQKBgC1XP677FUlFuGr83cwItrbkwKdMWLmhfJRDmox/t1Il4JKbt1je\nbWtr4NKN3+55/+QTc1j7fGrJ4CFFS0xpbmg2o/Ww7M0cw5jz+Xgssp1/D+Bglw5r\nC/lxR9U+8IHOEnCkMFUUR+JefzB1yTCSjoNjbTOawGa2v1oS7LRi6SDBAoGBAL6B\nEwYugIHwXm63jPJbNz07kKEL1YLPAWjIXRdwueNM9U6cRfFoaVasktixibYz5F5h\nMizYKg3l8dh95I9q9p4S85hKBHw69a9w5bAAuwy2EwKE4ai3Gv2mTWNtA1gwOi3f\nb06LKttmWuGHpPoGuRJhYA6jbIzPAXxZEzxDrWhBAoGARykOe30WpHl/e5G9Lger\n/tqzrLN22RAUjarDZhX4V+wsrMuPQ/uiZoLwyiZakcaEzw27QWPU/+6vNY8oMwbg\nLVQOurOegz8bE3W7BE6OQ1HI1KIUZSYdKImIZoiqCXkSpWIjm9QJ/F2tnRTtJJIz\nVCE34LzmSK2+mkL7PN/KKEA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-an2gu@freshonlinemandi.iam.gserviceaccount.com",
+  "client_id": "111452613208312732475",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-an2gu%40freshonlinemandi.iam.gserviceaccount.com"
+}

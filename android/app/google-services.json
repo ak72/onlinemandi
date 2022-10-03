@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070022446261",
+    "firebase_url": "https://freshonlinemandi-default-rtdb.firebaseio.com",
+    "project_id": "freshonlinemandi",
+    "storage_bucket": "freshonlinemandi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070022446261:android:0a282ec7aa6ec8178902fc",
+        "android_client_info": {
+          "package_name": "com.app4rge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070022446261-p16t8qalvgl7stkealpufbpgcflmit34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app4rge",
+            "certificate_hash": "2579e0499ba190eadc7fb09b855ffac56bc02fa7"
+          }
+        },
+        {
+          "client_id": "1070022446261-v160u77qd3701dnto8lr0of1d9ql97qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArOnpCIa3kh_1x34EqyVrjfoR6KwsfsjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070022446261-v160u77qd3701dnto8lr0of1d9ql97qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
